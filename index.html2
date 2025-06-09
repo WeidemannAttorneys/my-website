@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="JM0prOdBuNm_XHqDZfIPMuCTmtzo6exAS5QxfG8z5PM" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weidemann Attorneys -Legal Experts in Polokwane</title>
+  <h1>Welcome To Weidemann Attorneys</h1>
+  <p>We provide expert legal advice and services in Polokwane, specializing in property law, family law, and more.</p>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header, footer { background: #2e2e2e; color: #fff; padding: 1em; text-align: center; }
+    nav a { color: #fff; margin: 0 1em; text-decoration: none; }
+    .container { padding: 2em; max-width: 1200px; margin: auto; }
+    .logo { max-height: 92px; }
+    .section { margin-bottom: 3em; }
+    .team img { width: 100px; border-radius: 50%; }
+    .contact-form input, .contact-form textarea { width: 100%; padding: 1em; margin: 0.5em 0; }
+    .contact-form button { background: #333; color: #fff; border: none; padding: 1em 2em; cursor: pointer; }
+    .social-icons a { margin: 0 10px; color: #fff; }
+  </style>
+</head>
+<body>
+
+<h1>>Welcome to Weidemann Attorneys</h1>
+  <p>We provide expert legal advice and services in Polokwane, specializing in property law, family law, and more.</p>
+  
+  <header>
+    <img src="https://mweidelaw-my.sharepoint.com/personal/info_mweidelaw_co_za/Documents/Weidemann%20Logos/M%20logo.jpg?Web=1" alt="Weidemann Logo" class="logo">
+    <h1>Weidemann Attorneys</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Practice Areas</a>
+      <a href="#team">Our Team</a>
+      <a href="#blog">Blog</a>
+      <a href="#testimonials">Testimonials</a>
+      <a href="#faq">FAQs</a>
+      <a href="#contact">Contact</a>
+    </nav>
+	
+	 <img class="firm-photo" src="https://mweidelaw-my.sharepoint.com/:i:/g/personal/info_mweidelaw_co_za/ER-QigRpkAdErquDwmzMibwBAApfpknfOdOc5BfdiyPBtw?e=FSSNEj" alt="Our Office Building">
+
+    <div class="address">
+        <strong>Our Office Address:</strong><br>
+        Weidemann Attorneys<br>
+        Ground Floor - Jan Henstock Building Ismini Office Park - 2 Limassonal Street <br>
+		Tel:015 590 7781<br>
+		Email: info@mweidelaw.co.za<br>
+        Bendor, Polokwane , 0713 <br>
+        South Africa
+    </div>
+	
+  </header>
+
+  <div class="container">
+    <section id="about" class="section">
+      <h2>About Us</h2>
+      <p>Weidemann Attorneys is a full-service law firm offering expertise in family law, criminal defense, real estate, personal injury, and more. Our dedicated team ensures every client receives the highest level of legal support and representation.</p>
+    </section>
+
+    <section id="services" class="section">
+      <h2>Practice Areas</h2>
+      <ul>
+        <li>Family Law</li>
+        <li>Criminal Defense</li>
+        <li>Real Estate Law</li>
+        <li>Personal Injury</li>
+        <li>Litigation & Dispute Resolution</li>
+      </ul>
+    </section>
+
+    <section id="team" class="section team">
+      <h2>Meet Our Team</h2>
+      <p><strong>Monique Weidemann</strong> – <a href="mailto:info@mweidelaw.co.za">info@mweidelaw.co.za</a> | 015 059 07781</p>
+      <p><strong>Chanel Brown</strong> – <a href="mailto:litigation@mweidelaw.co.za">litigation@mweidelaw.co.za</a> | 015 590 7781</p>
+    </section>
+
+    <section id="blog" class="section">
+      <h2>Legal Insights & Blog</h2>
+      <p>Coming soon – insightful articles, case updates, and helpful legal tips from our attorneys.</p>
+    </section>
+
+    <section id="testimonials" class="section">
+      <h2>What Our Clients Say</h2>
+      <p>"Professional, caring and effective. Highly recommend Weidemann Attorneys!"</p>
+      <p>"They handled my case with compassion and efficiency. Forever grateful!"</p>
+    </section>
+
+    <section id="faq" class="section">
+      <h2>Frequently Asked Questions</h2>
+      <p><strong>Do you offer free consultations?</strong><br>We offer initial consultations at an affordable rate to assess your legal needs.</p>
+      <p><strong>What are your working hours?</strong><br>Monday–Thursday: 08h00–16h30<br>Friday: 08h00–16h00</p>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact Us</h2>
+      <p>Phone: 015 059 07781<br>Email: <a href="mailto:info@mweidelaw.co.za">info@mweidelaw.co.za</a></p>
+      <form class="contact-form">
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message" rows="5" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Weidemann Attorneys</p>
+    <div class="social-icons">
+      <a href="https://www.facebook.com/people/Weidemann-Attorneys/61564863353079/#"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.instagram.com/weidemann_attorneys?igsh=ZjgyMDM2ZHBsczI0"><i class="fab fa-instagram"></i></a>
+    </div>
+  </footer>
+</body>
+</html>
